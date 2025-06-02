@@ -122,5 +122,5 @@ project/
 
 ### Запуск тестов
 ```bash
-python -m unittest discover tests
+python -m unittest discover tests -v
 ```
